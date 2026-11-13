@@ -1,13 +1,13 @@
 {
-  "name": "Füße",
-  "short_name": "Füße",
+  "name": "Sample",
+  "short_name": "Sample",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
   "icons": [
     {
-      "src": "favicon-BVSVfY-O.png",
+      "src": "favicon.png",
       "sizes": "96x96",
       "type": "image/png"
     },
